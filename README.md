@@ -1,9 +1,9 @@
 # Logo-Generator
 
-SiteLink:<><br>
+SiteLink:<https://sugiura-engineer.github.io/Logo-Generator/><br>
 
 5作目<br>
-2025/5/02<br>
+2025/5/02~03<br>
 React,html(canvas)<br>
 
 ## １．概要
