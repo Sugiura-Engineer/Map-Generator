@@ -1,6 +1,6 @@
 # Logo-Generator
 
-SiteLink:<https://sugiura-engineer.github.io/Logo-Generator/><br>
+SiteLink:<https://sugiura-engineer.github.io/Map-Generator/><br>
 
 5作目<br>
 2025/5/02~03<br>
